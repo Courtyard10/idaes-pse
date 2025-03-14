@@ -1,11 +1,10 @@
 # IDAES Toolkit
-
 The IDAES Toolkit aims to provide multi-scale, simulation-based, open source
 computational tools and models to support the design, analysis, optimization,
+
 scale-up, operation and troubleshooting of innovative, advanced energy systems.
 
 <!-- BEGIN Status badges -->
-## Project Build and Download Statuses
 [![Tests](https://github.com/IDAES/idaes-pse/actions/workflows/core.yml/badge.svg)](https://github.com/IDAES/idaes-pse/actions/workflows/core.yml)
 [![Integration](https://github.com/IDAES/idaes-pse/actions/workflows/integration.yml/badge.svg)](https://github.com/IDAES/idaes-pse/actions/workflows/integration.yml)
 [![codecov](https://codecov.io/gh/IDAES/idaes-pse/branch/main/graph/badge.svg?token=1lNQNbSB29)](https://codecov.io/gh/IDAES/idaes-pse)
